@@ -1,1 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2TQWZuWI)
+# Favorite Food List
+
+## Author
+Sebastian Andrei P. Merdegia
+
+## Code Description
+This project implements a simple web application that allows users to add and delete food cards with rank, name, description, and image URL. The cards are automatically sorted based on their rank.
+
+## How to Use
+1. Clone the repository
+2. Run `npm install` to install dependencies
+3. Start the server with `npm start`
+
+
+
